@@ -1,1 +1,1 @@
-# prism-starter-cordova
+# prism-starter-web
